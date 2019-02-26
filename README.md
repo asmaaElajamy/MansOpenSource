@@ -1,5 +1,5 @@
 # MansOpenSource
-*Asmaa Ibrahim*
+Asmaa Ibrahim
 ===========
 Description:
 Online Examination System is the Software engineering Project.
