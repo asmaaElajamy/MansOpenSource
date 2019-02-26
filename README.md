@@ -1,7 +1,6 @@
 # MansOpenSource
 *Asmaa Ibrahim*
-===========
-__Description:__
+Description:
 Online Examination System is the Software engineering Project. 
 Here i am using HTML, CSS, JAVASCRIPT, PHP , AJAX, MYSQL etc.
 ![alt Online course](course.jpg)
